@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    margin: 0 auto;
+    width: 970px;
+}
+
+/*#boo-hoo{
+    position: relative;
+    top: 20px;
+}
+
+#boo, #boo-hoo{
+    display: inline-block;
+}
+
+example of relative positioning*/
+
+#info{
+    border: 1px solid green;
+    position: relative;
+}
+#boo, #boo-hoo{
+    display: inline-block;
+}
+
+#boo-hoo{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+example of absolute positioning
+
+#boo-hoo{
+    position: absolute;
+    and then pixel pushing
+    top:
+    left:
+    etc
+}

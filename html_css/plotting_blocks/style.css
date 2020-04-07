@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+}
+
+body {
+    background-color: orange;
+}
+
+/*Three ways to select tags*/
+
+p {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+#red {
+    color: green;
+}

@@ -1,0 +1,31 @@
+#heading {
+    width: 970px;
+    margin: 0 auto; /*centers; same as 0 auto 0 auto*/
+    padding: 20px; /*adds to all sides*/
+}
+
+#name {
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/*cannot add width and height to inline elements
+you can manipulate with block elements*/
+
+
+.subtitle {
+    text-align: center;
+    font-size: 25px;
+}
+
+#project {
+    width: 900px;
+    margin: 20px auto 0 auto;
+}
+
+.project-boxes {
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+}
